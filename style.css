@@ -93,7 +93,8 @@ align-items: center;
 }
 .home-img img{
 width: 35vw;
-
+margin-bottom: 30px;
+margin-right: 50px;
 
 }
 .home-content h3  {
